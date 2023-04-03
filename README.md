@@ -117,5 +117,9 @@ Generally, I would say the challenge was a success and it did well in terms of s
 
 For subsequent challenges, I recommend a target to be set on the number of users tweeting about the challenge. A total of 502 twitter users were discovered for this challenge, 1000 could be the target for the next challenge.
 
+![thanks](https://github.com/Ebuka456/Twitter-Analysis-The-Data-Cleaning-Challenge/blob/main/Data%20Cleaning%20Challenge/Thanks.gif)
+
+Thank you for reading!
+
 
 
